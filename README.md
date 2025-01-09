@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 2002486 (Initialize project using Create React App)
+>>>>
+>>>> Trần Duy Kha - 110121034 - DA21TTB - 0337597573
